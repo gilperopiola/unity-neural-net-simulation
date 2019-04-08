@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Projects\\Unity\\Libraries\\Frani Tilemapper\\Assembly-CSharp.csproj",
+  "TargetFramework": "v4.7.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

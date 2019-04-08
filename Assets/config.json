@@ -1,0 +1,15 @@
+{
+    "projectName": "TileMapper",
+    "debugMode": true,
+    "tileMap": {
+        "fileName": "Assets/Maps/Test2.map",
+        "width": 20,
+        "height": 20
+    },
+    "geneticAlgorithm": {
+        "nIndividuals": 80,
+        "nElite": 8,
+        "mutationPercentage": 0.2,
+        "nMovements": 32
+    }
+}
